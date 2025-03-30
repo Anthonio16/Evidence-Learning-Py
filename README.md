@@ -1,5 +1,6 @@
 # Evidence-Learning-Py
 **Python's knowledge Junior for Enginners**
+
 This respository shows evidence about my learning in Python. There are somo topics that I practiced on my way as Software Developer.
 To be more specific, I put an index.
   1. Tema00 - Introducción a Visual Studio Code y Jupyter Notebook
