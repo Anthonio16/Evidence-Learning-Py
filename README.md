@@ -1,5 +1,5 @@
 # Evidence-Learning-Py
-**Python's knowledge Junior for Enginners**
+**Python's Junior's knowledge  for Enginners**
 
 This respository shows evidence about my learning in Python. There are somo topics that I practiced on my way as Software Developer.
 To be more specific, I put an index.
